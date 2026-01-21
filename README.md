@@ -11,4 +11,4 @@ This site showcases a collection of my visual work, created using computer softw
 
 ## 🌐 Live Site
 View the portfolio here:  
-https://davidomoshuli001.github.io/art_portfolio/
+https://davidomoshuli001.github.io/
